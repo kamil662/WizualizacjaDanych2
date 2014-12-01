@@ -1,0 +1,17 @@
+Klasyfikacja przy uzyciu k-najblizszych sasiadow 
+ Algorytm KNN
+	1. Wstêpna obrobka danych 
+	 -Identyfikacja punktów oddalonych 
+	 -Przeksztalcenie danych - standaryzacja, normalizacja
+	2. Wyznaczenie miar podobienstwa miêdzy obiektami (funkcja odleg³oœci) 
+	3. Funkcja decyzyjna maj¹ca na celu wyznaczenie klasy do której nale¿y nowy obiekt (g³osowanie proste i wazone) 
+	4. Dokumentacja w pdf 
+	 -Opis dzia³ania algorytmu
+	 -Realizacja wytycznych w programie
+	 -Opis uruchamiania i poruszania sie po programie 
+	 -Zamieszczenie przyk³adów 
+	Gdy punkt za daleko to go odrzucamy
+	Mierzenie odleg³oœci na ró¿ne sposoby manhatan, wyszewa, euklidesa
+	K ma byæ zmienne od 1 do 10.
+	100 danych
+	G³osowanie wa¿one, wagi losowe, od 0 do 1
